@@ -1,1 +1,1 @@
-I'm Arne Bahlo, a software engineer from Germany.
+Hey hey, I'm currently moving everything over to Codeberg, find me there: [codeberg.org/enra](https://codeberg.org/enra).
